@@ -1,0 +1,10 @@
+POST http://127.0.0.1:3000/
+Content-Type: application/json
+
+{
+    "numbers": 20
+}
+###
+
+GET http://127.0.0.1:3000/
+###
